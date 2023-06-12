@@ -1,3 +1,5 @@
+package Hitung;
+
 
 
 
@@ -10,6 +12,6 @@ public class MatematikaBeraksi {
         System.out.println("Hasil perkalian     : "+ Rafi.setPerkalian());
         System.out.println("Hasil pembagian     : "+ Rafi.setPembagian());
         
-        
+              
   }  
 }
